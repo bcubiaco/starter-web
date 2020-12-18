@@ -1,8 +1,10 @@
 # Starter Web Repo
 
-This is for showing how Git and GitHub work
+This is for showing how GitHub work
 
 ## Purpose
+
+aaaaaaaaaaaaaaaaaaaaa
 
 ## Deployment
 
